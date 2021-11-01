@@ -37,6 +37,5 @@ summary
     Bhv_Start_Time: corresponds with "time_stamp" columns of "trials"
     'A0_name': corresponds with CaA0.trial_info{n}.mat_file
     'A1_name': corresponds with CaA1.trial_info{n}.mat_file
-    
     in other words, use A0_name to find correct calcium recording and Bhv_Start_time to find correct behavior data for the same trial. 
 
